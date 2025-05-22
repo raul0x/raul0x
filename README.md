@@ -32,8 +32,15 @@ Conecte-se comigo!
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
   <img src ="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
-
-
-
-
 </p>  
+
+
+##Certificações
+
+| Certificação | Nome | 
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction to Network |
+| ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray) | AWS Academy Cloud Foundations|
+| ![SENAI AZR900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat&labelColor=%23FF0000&color=white) | SENAI Azure Fundamentals 900 |
+| ![CCNA SRWE](https://img.shields.io/badge/CISCO_Switching_Routing_Wireless_Essentials-t?style=flat&logo=cisco&labelColor=black&color=black) | Cisco Switching Routing Wireless Essentials |
+

@@ -13,7 +13,7 @@
 Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em Nuvem e Administração de Sistemas,
 além disso, possuo experiência prática em AWS e Azure
 
-Conecte-se comigo!
+
 
 <br><br><br><br><br><br>
 
@@ -35,7 +35,7 @@ Conecte-se comigo!
 </p>  
 
 
-## Certificações
+## Certificações 🥇
 
 | Certificação | Nome | 
 | --- | --- |
@@ -44,3 +44,42 @@ Conecte-se comigo!
 | ![SENAI AZR900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat&labelColor=%23FF0000&color=white) | SENAI Azure Fundamentals 900 |
 | ![CCNA SRWE](https://img.shields.io/badge/CISCO_Switching_Routing_Wireless_Essentials-t?style=flat&logo=cisco&labelColor=black&color=black) | Cisco Switching Routing Wireless Essentials |
 
+---
+
+## Conquistas 🏆 
+
+- Curso técnico de Redes de Computadores
+- Curso preparatório para o AZ 900, AI 900
+- Projeto Zabbix (SignalTrack)
+- Projeto Azure (SevenCloud)
+- Casa IOT
+- Curso técnico de Informática
+- Curso de microcomputadores
+
+## Projetos 
+
+- Casa inteligente voltada aos PCDs 
+- Monitoramento on-promises com o uso de Zabbix & Grafana 
+- Infraestrutura em nuvem utilizando AWS e Azure 
+- Cabeamento estruturado baseado em empresas reais 
+- Infraestrutura de Redes no Packet Tracer
+- Jogo no Roblox Studio para uma feira cultural
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raul0x&theme=monokai-metallian&hide_border=true&short_numbers=true">
+</p>
+
+## Conecte-se comigo! 📬
+
+<p align="center">
+  <a href=""><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>
+
+
+<h4 align="center">
+  Obrigado por visitar!
+  <br><br>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=raul0x">
+  </div>
+</h4>

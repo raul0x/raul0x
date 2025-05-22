@@ -35,7 +35,7 @@ Conecte-se comigo!
 </p>  
 
 
-##Certificações
+## Certificações
 
 | Certificação | Nome | 
 | --- | --- |
